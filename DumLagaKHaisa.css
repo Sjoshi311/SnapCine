@@ -1,0 +1,147 @@
+.image-6-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1202px;
+  object-fit: cover;
+  opacity: 30%;
+}
+.prem-and-his {
+  position: absolute;
+  top: 439px;
+  left: 614px;
+  display: inline-block;
+  width: 805px;
+  height: 181px;
+}
+.magestar-fill-icon51 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 49px;
+  height: 49px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.div51 {
+  position: absolute;
+  top: 4.9px;
+  left: 49px;
+  display: inline-block;
+  width: 64.9px;
+  height: 47.7px;
+}
+.magestar-fill-parent48 {
+  position: absolute;
+  top: 347.2px;
+  left: 611.9px;
+  width: 113.8px;
+  height: 52.6px;
+}
+.dum-laga-k-haisa-child {
+  position: absolute;
+  top: 194.2px;
+  left: 558.1px;
+  width: 8.6px;
+  height: 561.8px;
+  object-fit: contain;
+}
+.snapcine1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 145px);
+  font-size: var(--font-size-41xl);
+  display: inline-block;
+  font-family: var(--font-battambang);
+  width: 290px;
+  height: 83px;
+}
+.image-35-icon {
+  position: absolute;
+  top: 193px;
+  left: 51px;
+  border-radius: var(--br-xl);
+  width: 333.2px;
+  height: 505px;
+  object-fit: cover;
+}
+.h-36m1 {
+  position: absolute;
+  top: 284px;
+  left: 612px;
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 250px;
+  height: 45px;
+}
+.dum-laga-ke {
+  top: 207px;
+  left: 614px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-battambang);
+  width: 432px;
+  height: 58px;
+}
+.dum-laga-ke,
+.home1,
+.starring-leads-1 {
+  position: absolute;
+  display: inline-block;
+}
+.home1 {
+  top: 74px;
+  left: 59px;
+  text-decoration: underline;
+  color: var(--color-gray-200);
+  width: 120px;
+  height: 18px;
+  cursor: pointer;
+}
+.starring-leads-1 {
+  top: 601px;
+  left: 616px;
+  font-family: var(--font-battambang);
+  width: 230px;
+  height: 58px;
+}
+.image-38-icon,
+.image-39-icon {
+  position: absolute;
+  top: 698px;
+  left: 616px;
+  border-radius: var(--br-341xl);
+  width: 200px;
+  height: 189.4px;
+  object-fit: cover;
+}
+.image-39-icon {
+  left: 865px;
+  width: 210px;
+  height: 189px;
+}
+.ayushmann-khurrana,
+.bhumi-pednekar {
+  position: absolute;
+  top: 910px;
+  left: 655px;
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 151px;
+  height: 74px;
+}
+.ayushmann-khurrana {
+  left: 876px;
+  width: 188px;
+}
+.dum-laga-k-haisa {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-libre-baskerville);
+}

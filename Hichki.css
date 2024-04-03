@@ -1,0 +1,162 @@
+.image-50-icon,
+.image-6-icon5 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 1962px;
+  height: 1199px;
+  object-fit: cover;
+  
+}
+
+.image-6-icon5{
+  opacity: 30%;
+}
+
+.image-50-icon {
+  top: 694px;
+  left: 625px;
+  border-radius: var(--br-341xl);
+  width: 202px;
+  height: 200px;
+}
+.rani {
+  margin: 0;
+}
+.rani-mukherjee,
+.starring-leads-5 {
+  position: absolute;
+  display: inline-block;
+}
+.rani-mukherjee {
+  top: 910px;
+  left: 652px;
+  color: var(--color-gray-300);
+  width: 175px;
+  height: 74px;
+}
+.starring-leads-5 {
+  top: 620px;
+  left: 597px;
+  font-family: var(--font-battambang);
+  width: 230px;
+  height: 58px;
+}
+.image-51-icon {
+  position: absolute;
+  top: 698px;
+  left: 865px;
+  border-radius: var(--br-341xl);
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.rohit-saraf {
+  position: absolute;
+  top: 910px;
+  left: 930px;
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 100px;
+  height: 74px;
+}
+.suffering-from-tourette {
+  position: absolute;
+  top: 399px;
+  left: 616px;
+  display: inline-block;
+  width: 808px;
+  height: 228px;
+}
+.magestar-fill-icon55 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 49.2px;
+  height: 49.2px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.div55 {
+  position: absolute;
+  top: 4.9px;
+  left: 49.2px;
+  display: inline-block;
+  width: 65.2px;
+  height: 48px;
+}
+.hichki-child,
+.magestar-fill-parent52 {
+  position: absolute;
+  top: 318.1px;
+  left: 616px;
+  width: 114.4px;
+  height: 52.9px;
+}
+.hichki-child {
+  top: 153.2px;
+  left: 559.4px;
+  width: 8.6px;
+  height: 564.8px;
+  object-fit: contain;
+}
+.snapcine5 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 142px);
+  font-size: var(--font-size-41xl);
+  display: inline-block;
+  font-family: var(--font-battambang);
+  width: 285px;
+  height: 53px;
+}
+.image-31-icon {
+  position: absolute;
+  top: 152px;
+  left: 50px;
+  border-radius: var(--br-xl);
+  width: 404px;
+  height: 566px;
+  object-fit: cover;
+}
+.h-56m {
+  top: 243px;
+  left: 614px;
+  color: var(--color-gray-300);
+  width: 236px;
+  height: 46px;
+}
+.h-56m,
+.hichki1,
+.home5 {
+  position: absolute;
+  display: inline-block;
+}
+.hichki1 {
+  top: 167px;
+  left: 616px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-battambang);
+  width: 207px;
+  height: 58px;
+}
+.home5 {
+  top: 56px;
+  left: 50px;
+  text-decoration: underline;
+  color: var(--color-gray-200);
+  width: 120px;
+  height: 18px;
+  cursor: pointer;
+}
+.hichki {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-libre-baskerville);
+}

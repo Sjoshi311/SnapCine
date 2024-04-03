@@ -1,0 +1,156 @@
+.image-6-icon7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1202px;
+  object-fit: cover;
+  opacity: 30%;
+}
+.the-real-life-story {
+  position: absolute;
+  top: 398px;
+  left: 613px;
+  display: inline-block;
+  width: 804px;
+  height: 226px;
+}
+.magestar-fill-icon57 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 49px;
+  height: 49px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.div57 {
+  position: absolute;
+  top: 4.9px;
+  left: 49px;
+  display: inline-block;
+  width: 64.9px;
+  height: 47.7px;
+}
+.magestar-fill-parent54,
+.th-fail-child {
+  position: absolute;
+  top: 317.2px;
+  left: 613px;
+  width: 113.8px;
+  height: 52.6px;
+}
+.th-fail-child {
+  top: 153.2px;
+  left: 556.7px;
+  width: 8.6px;
+  height: 561.8px;
+  object-fit: contain;
+}
+.snapcine7 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 153px);
+  font-size: var(--font-size-41xl);
+  display: inline-block;
+  font-family: var(--font-battambang);
+  width: 307px;
+  height: 53px;
+}
+.image-25-icon {
+  position: absolute;
+  top: 152px;
+  left: 50px;
+  border-radius: var(--br-xl);
+  width: 375px;
+  height: 563px;
+  object-fit: cover;
+}
+.h-27m,
+.home7,
+.th-fail1 {
+  position: absolute;
+  display: inline-block;
+}
+.th-fail1 {
+  top: 167px;
+  left: 613px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-battambang);
+  width: 214px;
+  height: 57px;
+}
+.h-27m,
+.home7 {
+  top: 247px;
+  left: 604px;
+  color: var(--color-gray-300);
+  width: 244px;
+  height: 46px;
+}
+.home7 {
+  top: 64px;
+  left: 50px;
+  text-decoration: underline;
+  color: var(--color-gray-200);
+  width: 120px;
+  height: 18px;
+  cursor: pointer;
+}
+.image-48-icon {
+  position: absolute;
+  top: 694px;
+  left: 625px;
+  border-radius: var(--br-341xl);
+  width: 215px;
+  height: 199.5px;
+  object-fit: cover;
+}
+.starring-leads-7,
+.vikrant-massey {
+  position: absolute;
+  display: inline-block;
+}
+.vikrant-massey {
+  top: 919px;
+  left: 675px;
+  color: var(--color-gray-300);
+  width: 151px;
+  height: 74px;
+}
+.starring-leads-7 {
+  top: 620px;
+  left: 597px;
+  font-family: var(--font-battambang);
+  width: 230px;
+  height: 58px;
+}
+.image-49-icon {
+  position: absolute;
+  top: 698px;
+  left: 865px;
+  border-radius: var(--br-341xl);
+  width: 199px;
+  height: 200px;
+  object-fit: cover;
+}
+.medha-shankr {
+  position: absolute;
+  top: 919px;
+  left: 905px;
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 122px;
+  height: 74px;
+}
+.th-fail {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-libre-baskerville);
+}

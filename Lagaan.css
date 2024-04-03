@@ -1,0 +1,160 @@
+.image-6-icon6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1201px;
+  object-fit: cover;
+  opacity: 30%;
+}
+.home6,
+.the-people-of {
+  position: absolute;
+  display: inline-block;
+}
+.home6 {
+  top: 56px;
+  left: 50px;
+  text-decoration: underline;
+  color: var(--color-gray-200);
+  width: 120px;
+  height: 18px;
+  cursor: pointer;
+}
+.the-people-of {
+  top: 396px;
+  left: 609px;
+  width: 798px;
+  height: 225px;
+}
+.magestar-fill-icon56 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 48.6px;
+  height: 48.6px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.div56 {
+  position: absolute;
+  top: 4.9px;
+  left: 48.6px;
+  display: inline-block;
+  width: 64.4px;
+  height: 47.4px;
+}
+.lagaan-child,
+.magestar-fill-parent53 {
+  position: absolute;
+  top: 316.1px;
+  left: 609px;
+  width: 113px;
+  height: 52.3px;
+}
+.lagaan-child {
+  top: 153.2px;
+  left: 553.1px;
+  width: 8.5px;
+  height: 557.8px;
+  object-fit: contain;
+}
+.snapcine6 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 147px);
+  font-size: var(--font-size-41xl);
+  display: inline-block;
+  font-family: var(--font-battambang);
+  width: 294px;
+  height: 53px;
+}
+.image-33-icon {
+  position: absolute;
+  top: 152px;
+  left: 50px;
+  border-radius: var(--br-xl);
+  width: 392px;
+  height: 559px;
+  object-fit: cover;
+}
+.h-44m,
+.lagaan-once-upon {
+  position: absolute;
+  display: inline-block;
+}
+.h-44m {
+  top: 242px;
+  left: 607px;
+  color: var(--color-gray-300);
+  width: 241px;
+  height: 45px;
+}
+.lagaan-once-upon {
+  top: 167px;
+  left: 609px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-battambang);
+  width: 845px;
+  height: 57px;
+}
+.image-43-icon2 {
+  position: absolute;
+  top: 694px;
+  left: 625px;
+  border-radius: var(--br-341xl);
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.khan {
+  margin: 0;
+}
+.amir-khan,
+.starring-leads-6 {
+  position: absolute;
+  display: inline-block;
+}
+.amir-khan {
+  top: 910px;
+  left: 677px;
+  color: var(--color-gray-300);
+  width: 101px;
+  height: 74px;
+}
+.starring-leads-6 {
+  top: 620px;
+  left: 597px;
+  font-family: var(--font-battambang);
+  width: 230px;
+  height: 58px;
+}
+.image-52-icon {
+  position: absolute;
+  top: 698px;
+  left: 865px;
+  border-radius: var(--br-341xl);
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.gracy-singh {
+  position: absolute;
+  top: 910px;
+  left: 926px;
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 106px;
+  height: 74px;
+}
+.lagaan {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-libre-baskerville);
+}

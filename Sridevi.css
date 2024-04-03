@@ -1,0 +1,241 @@
+.image-4-icon2 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 1920px;
+  height: 3084px;
+  object-fit: cover;
+}
+.sridevi-child {
+  position: absolute;
+  top: 71px;
+  left: calc(50% - 826px);
+  border-radius: var(--br-46xl);
+  background-color: var(--color-white);
+  width: 1594px;
+  height: 64px;
+}
+.image-17-icon {
+  position: absolute;
+  top: 242px;
+  left: 50px;
+  border-radius: var(--br-xl);
+  width: 317.9px;
+  height: 460px;
+  object-fit: cover;
+}
+.a-poor-but,
+.a-quiet-sweet {
+  position: absolute;
+  top: 448px;
+  left: 513px;
+  display: inline-block;
+  width: 657px;
+  height: 185px;
+}
+.a-poor-but {
+  top: 1050px;
+  height: 148px;
+}
+.fate-leaves-chandni,
+.in-order-to,
+.yash-chopras-most {
+  position: absolute;
+  top: 1614px;
+  left: 516px;
+  display: inline-block;
+  width: 657px;
+  height: 185px;
+}
+.fate-leaves-chandni,
+.in-order-to {
+  top: 2234px;
+  left: 512px;
+  height: 111px;
+}
+.in-order-to {
+  top: 2799px;
+  left: 515px;
+  height: 148px;
+}
+.image-18-icon,
+.image-19-icon,
+.image-20-icon,
+.image-21-icon {
+  position: absolute;
+  top: 825px;
+  left: 50px;
+  border-radius: var(--br-xl);
+  width: 285.2px;
+  height: 460px;
+  object-fit: cover;
+}
+.image-19-icon,
+.image-20-icon,
+.image-21-icon {
+  top: 1408px;
+  width: 295.2px;
+}
+.image-20-icon,
+.image-21-icon {
+  top: 1991px;
+  left: 51px;
+  width: 289px;
+}
+.image-21-icon {
+  top: 2574px;
+  left: 50px;
+  width: 351.2px;
+}
+.english-vinglish {
+  top: 310px;
+  left: 510px;
+  font-family: var(--font-battambang);
+  width: 328px;
+  height: 47px;
+}
+.chandni,
+.english-vinglish,
+.judaai,
+.lamhe,
+.mr-india,
+.sridevi1 {
+  position: absolute;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+}
+.sridevi1 {
+  top: 71px;
+  left: 158px;
+  font-weight: 500;
+  font-family: var(--font-eczar);
+  width: 161px;
+  height: 53px;
+}
+.chandni,
+.judaai,
+.lamhe,
+.mr-india {
+  top: 912px;
+  left: 512px;
+  width: 205px;
+  height: 47px;
+}
+.chandni,
+.judaai,
+.lamhe {
+  top: 1476px;
+  left: 515px;
+  width: 324px;
+}
+.chandni,
+.judaai {
+  top: 2096px;
+  left: 511px;
+  width: 194px;
+}
+.judaai {
+  top: 2661px;
+  left: 514px;
+  width: 449px;
+}
+.magestar-fill-icon10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.div10 {
+  position: absolute;
+  top: 4px;
+  left: 40px;
+  display: inline-block;
+  width: 53px;
+  height: 39px;
+}
+.magestar-fill-parent7,
+.magestar-fill-parent8,
+.magestar-fill-parent9 {
+  position: absolute;
+  top: 381px;
+  left: 510px;
+  width: 93px;
+  height: 43px;
+}
+.magestar-fill-parent8,
+.magestar-fill-parent9 {
+  top: 983px;
+}
+.magestar-fill-parent9 {
+  top: 1547px;
+  left: 513px;
+}
+.magestar-fill-parent10,
+.magestar-fill-parent11 {
+  position: absolute;
+  top: 2167px;
+  left: 509px;
+  width: 93px;
+  height: 43px;
+}
+.magestar-fill-parent11 {
+  top: 2732px;
+  left: 512px;
+}
+.sridevi-child1,
+.sridevi-child2,
+.sridevi-child3,
+.sridevi-inner,
+.sridevi-item {
+  position: absolute;
+  top: 269px;
+  left: 448px;
+  border-right: 2px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 2px;
+  height: 415px;
+}
+.sridevi-child1,
+.sridevi-child2,
+.sridevi-child3,
+.sridevi-inner {
+  top: 842px;
+}
+.sridevi-child1,
+.sridevi-child2,
+.sridevi-child3 {
+  top: 1430px;
+}
+.sridevi-child2,
+.sridevi-child3 {
+  top: 2013px;
+}
+.sridevi-child3 {
+  top: 2591px;
+}
+.icon-search2 {
+  position: absolute;
+  height: 1.3%;
+  width: 2.34%;
+  top: 2.69%;
+  right: 11.41%;
+  bottom: 96.01%;
+  left: 86.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sridevi {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-azure);
+  height: 3085px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-libre-baskerville);
+}

@@ -1,0 +1,243 @@
+.image-4-icon {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 1920px;
+  height: 3084px;
+  object-fit: cover;
+}
+.akshay-kumar-child {
+  position: absolute;
+  top: 71px;
+  left: calc(50% - 743px);
+  border-radius: var(--br-46xl);
+  background-color: var(--color-white);
+  width: 1497px;
+  height: 64px;
+}
+.image-7-icon {
+  position: absolute;
+  top: 242px;
+  left: 50px;
+  border-radius: var(--br-xl);
+  width: 340px;
+  height: 460px;
+  object-fit: cover;
+}
+.a-man-falls,
+.after-living-many,
+.an-nri-and,
+.based-on-an,
+.three-unemployed-men {
+  position: absolute;
+  top: 448px;
+  left: 513px;
+  display: inline-block;
+  width: 657px;
+  height: 185px;
+}
+.a-man-falls,
+.an-nri-and,
+.based-on-an,
+.three-unemployed-men {
+  top: 1050px;
+  height: 148px;
+}
+.a-man-falls,
+.an-nri-and,
+.three-unemployed-men {
+  top: 1614px;
+  left: 516px;
+  height: 185px;
+}
+.a-man-falls,
+.three-unemployed-men {
+  top: 2234px;
+  left: 512px;
+  height: 111px;
+}
+.three-unemployed-men {
+  top: 2799px;
+  left: 515px;
+  height: 148px;
+}
+.image-10-icon,
+.image-11-icon,
+.image-8-icon,
+.image-9-icon {
+  position: absolute;
+  top: 825px;
+  left: 50px;
+  border-radius: var(--br-xl);
+  width: 340px;
+  height: 460px;
+  object-fit: cover;
+}
+.image-10-icon,
+.image-11-icon,
+.image-9-icon {
+  top: 1408px;
+}
+.image-10-icon,
+.image-11-icon {
+  top: 1991px;
+  left: 51px;
+  width: 339px;
+}
+.image-11-icon {
+  top: 2574px;
+  left: 50px;
+  width: 340px;
+}
+.akshay-kumar1,
+.bhool-bhulaiyaa,
+.brothers,
+.hera-pheri,
+.kesari,
+.welcome {
+  position: absolute;
+  top: 310px;
+  left: 510px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  font-family: var(--font-battambang);
+  width: 182px;
+  height: 47px;
+}
+.akshay-kumar1,
+.bhool-bhulaiyaa,
+.hera-pheri,
+.kesari,
+.welcome {
+  top: 68px;
+  left: 237px;
+  width: 307px;
+  height: 53px;
+}
+.bhool-bhulaiyaa,
+.hera-pheri,
+.kesari,
+.welcome {
+  top: 912px;
+  left: 512px;
+  width: 182px;
+  height: 47px;
+}
+.bhool-bhulaiyaa,
+.hera-pheri,
+.welcome {
+  top: 1476px;
+  left: 515px;
+  width: 324px;
+}
+.hera-pheri,
+.welcome {
+  top: 2096px;
+  left: 511px;
+  width: 194px;
+}
+.hera-pheri {
+  top: 2661px;
+  left: 514px;
+  width: 220px;
+}
+.magestar-fill-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.div {
+  position: absolute;
+  top: 4px;
+  left: 40px;
+  display: inline-block;
+  width: 53px;
+  height: 39px;
+}
+.magestar-fill-group,
+.magestar-fill-parent {
+  position: absolute;
+  top: 381px;
+  left: 510px;
+  width: 93px;
+  height: 43px;
+}
+.magestar-fill-group {
+  top: 983px;
+}
+.group-div,
+.magestar-fill-container,
+.magestar-fill-parent1 {
+  position: absolute;
+  top: 1547px;
+  left: 513px;
+  width: 93px;
+  height: 43px;
+}
+.group-div,
+.magestar-fill-parent1 {
+  top: 2167px;
+  left: 509px;
+}
+.magestar-fill-parent1 {
+  top: 2732px;
+  left: 512px;
+}
+.akshay-kumar-child1,
+.akshay-kumar-child2,
+.akshay-kumar-inner,
+.akshay-kumar-item,
+.line-div {
+  position: absolute;
+  top: 269px;
+  left: 448px;
+  border-right: 2px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 2px;
+  height: 415px;
+}
+.akshay-kumar-child1,
+.akshay-kumar-child2,
+.akshay-kumar-inner,
+.line-div {
+  top: 842px;
+}
+.akshay-kumar-child1,
+.akshay-kumar-child2,
+.line-div {
+  top: 1430px;
+}
+.akshay-kumar-child1,
+.akshay-kumar-child2 {
+  top: 2013px;
+}
+.akshay-kumar-child2 {
+  top: 2591px;
+}
+.icon-search {
+  position: absolute;
+  height: 1.17%;
+  width: 2.34%;
+  top: 2.76%;
+  right: 12.76%;
+  bottom: 96.07%;
+  left: 84.9%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.akshay-kumar {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-azure);
+  height: 3085px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-libre-baskerville);
+}

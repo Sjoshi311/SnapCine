@@ -1,0 +1,249 @@
+.signup-child {
+  position: absolute;
+  top: 71px;
+  left: 881px;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-white);
+  width: 762px;
+  height: 148px;
+}
+.signup-child1,
+.signup-child2,
+.signup-inner,
+.signup-item {
+  position: absolute;
+  top: 279px;
+  left: 980px;
+  border-radius: 54.61px;
+  background-color: var(--color-white);
+  width: 725px;
+  height: 84px;
+}
+.signup-child1,
+.signup-child2,
+.signup-inner {
+  top: 418px;
+  height: 83px;
+}
+.signup-child1,
+.signup-child2 {
+  top: 556px;
+}
+.signup-child2 {
+  top: 675px;
+}
+.enter-email1,
+.enter-name,
+.password2,
+.re-enter-password {
+  position: absolute;
+  top: 304px;
+  left: 1028px;
+  display: inline-block;
+  width: 608px;
+  height: 36px;
+  opacity: 0.5;
+}
+.enter-email1,
+.password2,
+.re-enter-password {
+  top: 441px;
+}
+.password2,
+.re-enter-password {
+  top: 579px;
+  height: 35px;
+}
+.re-enter-password {
+  top: 699px;
+  left: 1039px;
+  width: 609px;
+}
+.email1,
+.password3,
+.your-name {
+  position: absolute;
+  top: 232px;
+  left: 1013px;
+  font-size: var(--font-size-7xl-9);
+  color: var(--color-gainsboro);
+  display: inline-block;
+  width: 285px;
+  height: 42px;
+}
+.email1,
+.password3 {
+  top: 375px;
+  height: 43px;
+}
+.password3 {
+  top: 514px;
+  height: 42px;
+}
+.signup-child3 {
+  position: absolute;
+  top: 88px;
+  left: 1327px;
+  background-color: var(--color-white);
+  width: 275px;
+  height: 112px;
+  cursor: pointer;
+}
+.login3 {
+  position: absolute;
+  top: 109px;
+  left: 958px;
+  font-size: var(--font-size-36xl);
+  display: inline-block;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  width: 266px;
+  height: 85px;
+  cursor: pointer;
+}
+.signup-child4 {
+  position: absolute;
+  top: 220px;
+  left: 1649px;
+  border-radius: var(--br-32xl);
+  background: linear-gradient(90deg, #074276, rgba(5, 37, 65, 0));
+  width: 427.3px;
+  height: 149.3px;
+  transform: rotate(-179.92deg);
+  transform-origin: 0 0;
+}
+.signup2 {
+  position: absolute;
+  top: 112px;
+  left: 1353px;
+  font-size: var(--font-size-36xl);
+  display: inline-block;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  width: 311px;
+  height: 61px;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-white);
+  width: 390.2px;
+  height: 89.3px;
+}
+.rectangle-group,
+.signup3 {
+  position: absolute;
+  cursor: pointer;
+  
+}
+.signup3 {
+  top: calc(50% - 17.65px);
+  left: calc(50% - 71.4px);
+  letter-spacing: 0.08em;
+  line-height: 40px;
+  display: inline-block;
+  width: 144px;
+  height: 51.9px;
+}
+.rectangle-group {
+  top: 800.4px;
+  left: 1059.8px;
+  width: 390.2px;
+  height: 89.3px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}
+.login4 {
+  text-decoration: underline;
+}
+.already-have-an-container {
+  position: absolute;
+  top: 909px;
+  left: 1330px;
+  font-size: var(--font-size-6xl-4);
+  color: var(--color-white);
+  display: inline-block;
+  width: 691px;
+  height: 40px;
+  cursor: pointer;
+}
+.image-2-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 720px;
+  height: 1212px;
+  object-fit: cover;
+}
+.signup1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-100);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl-4);
+  color: var(--color-black);
+  font-family: var(--font-libre-baskerville);
+}
+
+.input-containers {
+  margin-bottom:70px;
+  margin-top: 5px;
+  height: 50px;
+  width: 100%;
+}
+
+
+.input-containers input {
+  
+  font-size: 25px;
+  margin-left: 950px;
+  margin-top: 300px;
+  width: 30%;
+  height: 60%;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid rgb(48, 54, 54);
+  border-radius: 50px;
+  outline: none;
+  z-index: 9999;
+  color: black;
+}
+
+.your-Name{
+  position: absolute;
+  margin-left: 970px;
+  color: white;
+  margin-top: 260px;
+  font-size: 30px;
+}
+
+.your-email{
+  position: absolute;
+  margin-left: 970px;
+  color: white;
+  margin-top: 260px;
+  font-size: 30px;
+}
+
+.your-password1{
+  position: absolute;
+  margin-left: 970px;
+  color: white;
+  margin-top: 260px;
+  font-size: 30px;
+
+}
+
+.your-repassword1{
+  position: absolute;
+  margin-left: 970px;
+  color: white;
+  margin-top: 260px;
+  font-size: 30px;
+
+}

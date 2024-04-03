@@ -1,0 +1,241 @@
+.image-4-icon3 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 1920px;
+  height: 3084px;
+  object-fit: cover;
+}
+.tabu-child {
+  position: absolute;
+  top: 71px;
+  left: calc(50% - 822px);
+  border-radius: var(--br-46xl);
+  background-color: var(--color-white);
+  width: 1587px;
+  height: 64px;
+}
+.image-12-icon2 {
+  position: absolute;
+  top: 242px;
+  left: 50px;
+  border-radius: var(--br-xl);
+  width: 317.9px;
+  height: 460px;
+  object-fit: cover;
+}
+.a-series-of,
+.after-getting-out {
+  position: absolute;
+  top: 448px;
+  left: 513px;
+  display: inline-block;
+  width: 657px;
+  height: 185px;
+}
+.after-getting-out {
+  top: 1050px;
+  height: 148px;
+}
+.desperate-measures-are,
+.ramkishen-and-mamta,
+.the-gang-encounters {
+  position: absolute;
+  top: 1614px;
+  left: 516px;
+  display: inline-block;
+  width: 657px;
+  height: 185px;
+}
+.ramkishen-and-mamta,
+.the-gang-encounters {
+  top: 2234px;
+  left: 512px;
+  height: 111px;
+}
+.ramkishen-and-mamta {
+  top: 2799px;
+  left: 515px;
+  height: 148px;
+}
+.image-13-icon2,
+.image-14-icon2,
+.image-15-icon2,
+.image-16-icon2 {
+  position: absolute;
+  top: 825px;
+  left: 50px;
+  border-radius: var(--br-xl);
+  width: 285.2px;
+  height: 460px;
+  object-fit: cover;
+}
+.image-14-icon2,
+.image-15-icon2,
+.image-16-icon2 {
+  top: 1408px;
+  width: 295.2px;
+}
+.image-15-icon2,
+.image-16-icon2 {
+  top: 1991px;
+  left: 51px;
+  width: 289px;
+}
+.image-16-icon2 {
+  top: 2574px;
+  left: 50px;
+  width: 343.9px;
+}
+.andhadhun {
+  top: 310px;
+  left: 510px;
+  font-family: var(--font-battambang);
+  width: 328px;
+  height: 47px;
+}
+.andhadhun,
+.bhola,
+.drishyam,
+.golmaal-again,
+.hum-saath-saath-hain,
+.tabu1 {
+  position: absolute;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+}
+.tabu1 {
+  top: 71px;
+  left: 167px;
+  font-weight: 500;
+  font-family: var(--font-eczar);
+  width: 107px;
+  height: 53px;
+}
+.bhola,
+.drishyam,
+.golmaal-again,
+.hum-saath-saath-hain {
+  top: 912px;
+  left: 512px;
+  width: 205px;
+  height: 47px;
+}
+.drishyam,
+.golmaal-again,
+.hum-saath-saath-hain {
+  top: 1476px;
+  left: 515px;
+  width: 324px;
+}
+.golmaal-again,
+.hum-saath-saath-hain {
+  top: 2096px;
+  left: 511px;
+  width: 357px;
+}
+.hum-saath-saath-hain {
+  top: 2661px;
+  left: 514px;
+  width: 500px;
+}
+.magestar-fill-icon20 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.div20 {
+  position: absolute;
+  top: 4px;
+  left: 40px;
+  display: inline-block;
+  width: 53px;
+  height: 39px;
+}
+.magestar-fill-parent17,
+.magestar-fill-parent18,
+.magestar-fill-parent19 {
+  position: absolute;
+  top: 381px;
+  left: 510px;
+  width: 93px;
+  height: 43px;
+}
+.magestar-fill-parent18,
+.magestar-fill-parent19 {
+  top: 983px;
+}
+.magestar-fill-parent19 {
+  top: 1547px;
+  left: 513px;
+}
+.magestar-fill-parent20,
+.magestar-fill-parent21 {
+  position: absolute;
+  top: 2167px;
+  left: 509px;
+  width: 93px;
+  height: 43px;
+}
+.magestar-fill-parent21 {
+  top: 2732px;
+  left: 512px;
+}
+.tabu-child1,
+.tabu-child2,
+.tabu-child3,
+.tabu-inner,
+.tabu-item {
+  position: absolute;
+  top: 269px;
+  left: 448px;
+  border-right: 2px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 2px;
+  height: 415px;
+}
+.tabu-child1,
+.tabu-child2,
+.tabu-child3,
+.tabu-inner {
+  top: 842px;
+}
+.tabu-child1,
+.tabu-child2,
+.tabu-child3 {
+  top: 1430px;
+}
+.tabu-child2,
+.tabu-child3 {
+  top: 2013px;
+}
+.tabu-child3 {
+  top: 2591px;
+}
+.icon-search4 {
+  position: absolute;
+  height: 1%;
+  width: 2.34%;
+  top: 2.85%;
+  right: 11.13%;
+  bottom: 96.15%;
+  left: 86.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.tabu {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-azure);
+  height: 3085px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-libre-baskerville);
+}

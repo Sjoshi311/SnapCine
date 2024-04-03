@@ -1,0 +1,176 @@
+.image-6-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1201px;
+  object-fit: cover;
+  opacity: 30%;
+}
+.two-friends-are {
+  position: absolute;
+  top: 396px;
+  left: 609px;
+  display: inline-block;
+  width: 798px;
+  height: 270px;
+}
+.magestar-fill-icon54 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 48.6px;
+  height: 48.6px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.div54 {
+  position: absolute;
+  top: 4.9px;
+  left: 48.6px;
+  display: inline-block;
+  width: 64.4px;
+  height: 47.4px;
+}
+.idiots-child,
+.magestar-fill-parent51 {
+  position: absolute;
+  top: 316.1px;
+  left: 609px;
+  width: 113px;
+  height: 52.3px;
+}
+.idiots-child {
+  top: 153.2px;
+  left: 553.1px;
+  width: 8.5px;
+  height: 557.8px;
+  object-fit: contain;
+}
+.snapcine4 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 144px);
+  font-size: var(--font-size-41xl);
+  display: inline-block;
+  font-family: var(--font-battambang);
+  width: 288px;
+  height: 53px;
+}
+.image-32-icon {
+  position: absolute;
+  top: 152px;
+  left: 50px;
+  border-radius: var(--br-xl);
+  width: 416px;
+  height: 559px;
+  object-fit: cover;
+}
+.h-50m {
+  top: 242px;
+  left: 607px;
+  color: var(--color-gray-300);
+  width: 252px;
+  height: 45px;
+}
+.h-50m,
+.home4,
+.padman2 {
+  position: absolute;
+  display: inline-block;
+}
+.padman2 {
+  top: 167px;
+  left: 609px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-battambang);
+  width: 204px;
+  height: 57px;
+}
+.home4 {
+  top: 56px;
+  left: 50px;
+  text-decoration: underline;
+  color: var(--color-gray-200);
+  width: 120px;
+  height: 18px;
+  cursor: pointer;
+}
+.image-43-icon1 {
+  position: absolute;
+  top: 694px;
+  left: 625px;
+  border-radius: var(--br-341xl);
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.amir-khaan1,
+.starring-leads-4 {
+  position: absolute;
+  display: inline-block;
+}
+.amir-khaan1 {
+  top: 919px;
+  left: 675px;
+  color: var(--color-gray-300);
+  width: 151px;
+  height: 74px;
+}
+.starring-leads-4 {
+  top: 620px;
+  left: 597px;
+  font-family: var(--font-battambang);
+  width: 230px;
+  height: 58px;
+}
+.image-44-icon {
+  position: absolute;
+  top: 698px;
+  left: 865px;
+  border-radius: var(--br-341xl);
+  width: 177.9px;
+  height: 200px;
+  object-fit: cover;
+}
+.madhvan {
+  position: absolute;
+  top: 919px;
+  left: 900px;
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 188px;
+  height: 74px;
+}
+.image-46-icon {
+  position: absolute;
+  top: 686px;
+  left: 1088px;
+  border-radius: var(--br-341xl);
+  width: 201px;
+  height: 200px;
+  object-fit: cover;
+}
+.sharman {
+  margin: 0;
+}
+.sharman-joshi {
+  position: absolute;
+  top: 911px;
+  left: 1138px;
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 151px;
+  height: 74px;
+}
+.idiots {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-libre-baskerville);
+}
